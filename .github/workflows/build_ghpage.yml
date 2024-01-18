@@ -3,7 +3,7 @@ name: Deploy Honkit Book Website
 on:
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: read
@@ -25,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Build Pages
-        uses: FriesI23/honkit-build-page@master
+        uses: FriesI23/honkit-build-page@v1
         with:
           working-directory: test
       - name: Upload artifact
