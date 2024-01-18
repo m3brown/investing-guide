@@ -16,9 +16,9 @@ A simple investment strategy can be just as effective, if not better, than a com
 
 > "A few simple investment principles that have historically produced risk-adjusted returns that are better than the returns of average investors."
 
-- Buy low-fee index funds
-  - Popular brokerages are Vanguard, Fidelity, and Schwab
-- Benefit from tax-advantaged accounts as much as possible
-- Resist the urge to outsmart the market
-  - Or to trust someone to beat the market for you
-- The goal is to get to the point where you can live off of 4% of your savings
+1. Buy low-fee index funds
+    - Popular brokerages are Vanguard, Fidelity, and Schwab
+1. Benefit from tax-advantaged accounts as much as possible
+1. Resist the urge to outsmart the market
+    - Or to trust someone to beat the market for you
+1. The goal is to get to the point where you can live off of 4% of your savings
