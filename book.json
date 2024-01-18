@@ -1,0 +1,6 @@
+{
+  "root": "./docs",
+  "plugins": [
+    "callouts@git+https://github.com/Simran-B/gitbook-plugin-callouts.git"
+  ]
+}
