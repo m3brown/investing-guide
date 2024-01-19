@@ -2,27 +2,37 @@
 
 ## Use a free online brokerage for after-tax investing
 
-- I recommend one of: Vanguard, Fidelity, Schwab
-  - The brokerage should offer financial advisory services for an extra fee, but not REQUIRE those services/fees.
-    - Ensure the advisors are a [fiduciary](https://www.nerdwallet.com/article/investing/fiduciary)
-    - [Broker is not your buddy](https://www.youtube.com/watch?v=PQuR3oljviw) (Youtube)
-- To simplify (consolidate) your portfolio, you can transfer in tax-advantaged accounts (IRAs, HSA, etc.) that you may already have open with other vendors.
+I recommend one of: Vanguard, Fidelity, Schwab
+
+- The brokerage should offer financial advisory services for an extra fee, but not REQUIRE those services/fees
+- Refer to the section [Keep costs low](../costs/) for more insight into advisor fees
+
+To simplify (consolidate) your portfolio, you can transfer in tax-advantaged accounts (IRAs, HSA, etc.) that you may already have open with other vendors.
 
 ## Use a High Yield Savings Account (HYSA) for cash reserves
 
 - Interest rates below inflation are effectively “losing money”
 - A 4% account (e.g. Capital One) earns 400x more interest than a .01% account (e.g. Chase)
 - Pairing Checking and savings accounts with one company may enable instant transfers. Keep most of the money in the high-interest savings bucket until you need it.
-- Resource: [CNBC: best high-yield savings accounts offered by big banks](https://www.cnbc.com/select/best-high-yield-savings-accounts-by-big-banks/)
+- [CNBC: best high-yield savings accounts offered by big banks](https://www.cnbc.com/select/best-high-yield-savings-accounts-by-big-banks/)
 
 ## Tax advantaged accounts
 
 Tax advantaged accounts are important to understand because
 
 - Reduction in taxes allows for money to grow much faster over time
+- The types of accounts available varies from person to person, depending on income level and what your employer offers.
 - The amount you can put in each year is limited, forcing you to contribute consistently over a long period of time
 
-My general recommendation is `put as much money as you can into tax-advantaged accounts`. The types of accounts available varies from person to person, depending on income level and what your employer offers.
+{% hint "quote" %}
+**put as much money as you can into tax-advantaged accounts**
+
+<p align="right" style="margin-bottom: 0">
+said Mike, with loads of enthusiasm
+</p>
+{% endhint %}
+
+The types of accounts available varies from person to person, depending on income level and what your employer offers.
 
 | Account Type    | Tax-Free money in | Tax-Free earnings while invested | Tax-Free when taking money out | Early withdrawals permitted[^1] |
 |-----------------|-------------------|----------------------------------|--------------------------------|---------------------------------|
@@ -38,7 +48,7 @@ My general recommendation is `put as much money as you can into tax-advantaged a
   [^3] Traditional IRA contributions are tax-deductable for people earning under 87k in 2024 (or 147k filing jointly)  
   [^4] 529 are subject to federal tax, but [many states offer a STATE tax deduction](https://smartasset.com/taxes/529-plan-tax-deductions-for-every-state)
 
-## Maximizing your tax-advantaged contributions each year
+### Maximize your tax-advantaged contributions each year
 
 Consider "maxing out" all the tax-advantage accounts available to you.
 

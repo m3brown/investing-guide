@@ -14,7 +14,13 @@ More research beyond this document is encouraged.
 
 A simple investment strategy can be just as effective, if not better, than a complicated strategy. Here are a few principles to ensure fruitful long term growth.
 
-> "A few simple investment principles that have historically produced risk-adjusted returns that are better than the returns of average investors."
+{% hint 'quote' %}
+A few simple investment principles that have historically produced risk-adjusted returns that are better than the returns of average investors.
+
+<p align="right" style="margin-bottom: 0">
+<a href="https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy">Bogleheads Investment Philosophy</a>
+</p>
+{% endhint %}
 
 1. Buy low-fee index funds
     - Popular brokerages are Vanguard, Fidelity, and Schwab

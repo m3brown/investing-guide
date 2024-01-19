@@ -1,6 +1,9 @@
 {
+  "title": "A Guide to Responsible DIY Investing",
   "root": "./docs",
   "plugins": [
-    "callouts@git+https://github.com/Simran-B/gitbook-plugin-callouts.git"
+    "callouts@git+https://github.com/Simran-B/gitbook-plugin-callouts.git",
+    "gitbook-plugin-remove-published-with-link",
+    "noembed"
   ]
 }

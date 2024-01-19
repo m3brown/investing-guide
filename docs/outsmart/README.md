@@ -1,6 +1,6 @@
-## Resist the urge to outsmart the market
+# Resist the urge to outsmart the market
 
-### Stock market historical growth
+## Stock market historical growth
 
 S&P 500 historical growth:
 - The average annualized return since its inception in 1928 through Dec. 31, 2023, is **9.90%**.
@@ -24,7 +24,7 @@ Total portfolio: $2.25 million (in today's dollars)
   - which would support a $90k/year withdrawal (in today's dollars)
 ```
 
-### “Invest early” over “timing the market”
+## “Invest early” over “timing the market”
 
 {% hint 'quote' %}
 Time in market over timing the market
@@ -34,12 +34,12 @@ It’s tempting to save money for when the market is “down”, but it’s actu
 
 A large portion of market growth is in a small number of days in the year. In other words, there are a couple big spikes each year. You might miss those if you’re holding money waiting for the right time.
 
-#### Resources
+### Resources
 - [Schwab: Does Markting Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
     - Look into Dollar Cost Averaging (DCA), explained in the link above
 - [Rule #5: Never try to time the market](https://www.youtube.com/watch?v=b3pnpbWYfwc&list=PL21534875BFC50EEE&index=6) (Youtube)
 
-### “Diversified funds” over “individual stocks”
+## “Diversified funds” over “individual stocks”
 
 It’s natural to dream about “making it big” with a stock that has massive growth, like the early investors in Apple and Microsoft.
 
@@ -49,11 +49,11 @@ It’s natural to dream about “making it big” with a stock that has massive 
 
 It’s possible that “being the market” is sufficient for a happy and fruitful retirement, without the need to “beat the market”.
 
-#### Resources
+### Resources
 - [Rule #3: Control investment risk exposure](https://www.youtube.com/watch?v=mArZsJvFKY4) (Youtube)
 - [Rule #4: Diversify stocks!](https://www.youtube.com/watch?v=zXnbxLtRhrU&t=170s) (Youtube)
 
-### The Three Fund Portfolio
+## The Three Fund Portfolio
 
 There are many index funds out there, so “use index funds” is overly simplistic. It really can be overwhelming to browse all the fund options.
 
@@ -67,7 +67,11 @@ A popular approach is to focus investment money on just 3 funds:
 
 What ratio of your money you put into each depends on your age.
 
-**Fun Fact: most brokerages have “Target Date Funds” that are Three Fund Portfolios where they manage the ratios for you over the years.**
+{% hint 'info' %}
+Most brokerages have “Target Date Funds”, which are Three Fund Portfolios where the brokerage manages the ratios for you over the years.
+
+These are typically fairly low-cost and a great single-fund investment solution.
+{% endhint %}
 
 For example, here’s the mapping for Vanguard’s Target Date Index Funds:
 

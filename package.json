@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "callouts": "github:m3brown/gitbook-plugin-callouts",
+    "gitbook-plugin-noembed": "^0.1.0",
+    "gitbook-plugin-remove-published-with-link": "^1.0.3",
     "honkit": "^5.1.4"
   }
 }
