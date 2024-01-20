@@ -1,4 +1,7 @@
-## Which account (or debt) should I put money into first?
-Here’s a recommended sequence to prioritize investments and debt (copied from [this guide](https://www.bogleheads.org/wiki/Prioritizing_investments))
+# Which account (or debt) should I put money into first?
 
-![Bogleheads Prioritizing Investments](https://www.bogleheads.org/w/images/thumb/7/75/Prioritizing_investments.svg/1024px-Prioritizing_investments.svg.png?20210716043136)
+If you are unsure which types of accounts (or debts) you should be putting money to first, here is a suggested sequence:
+
+![Bogleheads Prioritizing Investments](512px-Prioritizing_investments.svg.png)
+
+Source: [Bogleheads: Prioritizing investments](https://www.bogleheads.org/wiki/Prioritizing_investments)

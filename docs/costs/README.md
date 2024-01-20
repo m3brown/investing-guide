@@ -13,7 +13,9 @@ Active funds cost more than index funds
 
 Those fees are charged even if the funds lose money, and those fees compound every year.
 
-![Active vs Index 30 Year Line Graph](https://www.dollardex.com/sgn/images/articles/2019/lowCostInvest-fig1.jpg)
+![Active vs Index 30 Year Line Graph](lowCostInvest-fig1.jpg)
+
+Source: [dollardex.com: How a 1% fee could cost Millennials $151,432 in retirement savings](https://www.dollardex.com/sgn/index.cfm?current=insights/lowCostInvest)
 
 The argument is FOR active funds is that you're paying for very smart portfolio managers that know how to outperform the market. If a fund has a 1.0% fee, but the return was 1.5% better than the market, that's a .5% win!
 
@@ -21,7 +23,9 @@ The argument is FOR active funds is that you're paying for very smart portfolio 
 
 Data shows that active funds occasionally beat the market for a year or two, but **very few funds consistently beat the market index over the course of 10+ years.**
 
-![Image of S&P vs Active Fund performance](https://thecollegeinvestor.com/wp-content/uploads/2021/06/Screenshot-2021-06-25-9.20.08-AM.png.webp)
+![Image of S&P vs Active Fund performance](Screenshot-2021-06-25-9.20.08-AM.png.webp)
+
+Source: [thecollegeinvestor.com: What Is An Index Fund? (And Is It A Good Investment Choice?](https://thecollegeinvestor.com/37486/what-is-an-index-fund/)
 
 #### Percentage of funds that underperform the benchmark
 
